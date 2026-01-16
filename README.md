@@ -1,37 +1,78 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+# Whack-a-Mole 🎯
 
-First, run the development server:
+A simple **Whack-a-Mole game** built using **Next.js + React**.  
+Click the mole as fast as you can and try to score as high as possible before time runs out!
+
+---
+
+## 🚀 Features
+
+- Built with **Next.js**
+- Fast and fun gameplay
+- Score tracking
+- Simple and clean UI
+
+---
+
+## 🛠️ Tech Stack
+
+- **Next.js**
+- **React**
+- **JavaScript / TypeScript** (depending on your code)
+- **CSS / Tailwind** (depending on your styling)
+
+---
+
+## 📦 Getting Started (Run Locally)
+
+### 1) Clone the repository
+```bash
+git clone https://github.com/FurquanAnwer/whack-a-mole.git
+````
+
+### 2) Go inside the project folder
+
+```bash
+cd whack-a-mole
+```
+
+### 3) Install dependencies
+
+```bash
+npm install
+```
+
+### 4) Start the development server
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Now open:
+👉 **[http://localhost:3000](http://localhost:3000)**
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🎮 How to Play
 
-## Learn More
+* Click on the mole whenever it appears
+* Each hit increases your score
+* Try to get the highest score before the game ends
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🤝 Contributing
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Feel free to fork the repo and raise a PR if you want to improve the game!
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📄 License
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# whack-a-mole
+This project is open-source and available under the **MIT License**.
+
+```
+
+If you want, I can also add a **Live Demo section (Vercel link)** + **screenshots/GIF section** to make it look more professional for recruiters.
+```
