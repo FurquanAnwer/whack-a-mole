@@ -73,6 +73,3 @@ Feel free to fork the repo and raise a PR if you want to improve the game!
 This project is open-source and available under the **MIT License**.
 
 ```
-
-If you want, I can also add a **Live Demo section (Vercel link)** + **screenshots/GIF section** to make it look more professional for recruiters.
-```
